@@ -1,0 +1,23 @@
+# Theme metadata
+name = "Blue"
+
+# Is theme light or dark?
+light = true
+
+# Primary
+primary = "#86608E" #PRIMARY
+
+# Menu
+menu_primary = "rgb(255, 255, 255)"
+menu_text = "rgb(103, 103, 103)" #same as 2nd text; also rgba(0, 0, 0, .6)
+menu_text_active = "#86608E" #PRIMARY
+menu_title = "rgb(52, 52, 52)" #same as main text
+
+# Home sections
+home_section_odd = "#rgb(255, 255, 255)"
+home_section_even = "rgb(247, 247, 247)"
+
+
+#https://en.wikipedia.org/wiki/Shades_of_purple
+# pomp and power
+#  "#86608E" "rgb(134, 96, 142)"
