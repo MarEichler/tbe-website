@@ -7,7 +7,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 4  # Order that this section will appear.
 
-title = "Publications and Talks"
+title = "Publications"
 subtitle = ""
 
 [content]
@@ -65,8 +65,8 @@ subtitle = ""
  
  # CSS class.
  css_class = ""
+ 
+# [Filter publications]({{< ref "/publication/_index.md" >}})
 +++
 
-{{% alert note %}}
-Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
-{{% /alert %}}
+
