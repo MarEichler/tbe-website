@@ -15,21 +15,21 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
-  icon = "r-project"
-  icon_pack = "fab"
-  name = "R"
-  description = "90%"
+  icon = "archive"
+  icon_pack = "fas"
+  name = "Coding Libraries"
+  description = "Extensive work in documentation of coding libraries and description of use for a wide variety of audiences "
   
 [[feature]]
-  icon = "chart-line"
+  icon = "laptop-code"
   icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
+  name = "Programming"
+  description = "Fluent in C++, ROOT, python, cmake, bash, and Mathematica.  Familiar with programming in googlescript and data collection using an Arduino.  "  
   
 [[feature]]
-  icon = "camera-retro"
+  icon = "users"
   icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "Collaboration"
+  description = "Highly proficient in managing group work and working with people at a variety of different levels"
 
 +++
