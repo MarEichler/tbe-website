@@ -32,7 +32,9 @@ publication_short: "J. High Energ. Phys. 2020, 3"
 abstract: Fixed-target experiments using primary electron beams can be powerful discovery tools for light dark matter in the sub-GeV mass range. The Light Dark Matter eXperiment (LDMX) is designed to measure missing momentum in high-rate electron fixed-target reactions with beam energies of 4 GeV to 16 GeV. A prerequisite for achieving several important sensitivity milestones is the capability to efficiently reject backgrounds associated with few-GeV bremsstrahlung, by twelve orders of magnitude, while maintaining high efficiency for signal. The primary challenge arises from events with photo-nuclear reactions faking the missing-momentum property of a dark matter signal. We present a methodology developed for the LDMX detector concept that is capable of the required rejection. By employing a detailed Geant4-based model of the detector response, we demonstrate that the sampling calorimetry proposed for LDMX can achieve better than 10<sup>−13</sup> rejection of few-GeV photons. This suggests that the luminosity-limited sensitivity of LDMX can be realized at 4 GeV and higher beam energies.
 
 # Summary. An optional shortened abstract.
-summary: add short summary 
+# if blank will take first line or so of abstract
+# do not need quotations 
+summary: 
 
 tags:
 - LDMX
