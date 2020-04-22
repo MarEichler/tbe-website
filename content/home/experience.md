@@ -24,14 +24,6 @@ subtitle = ""
   [[content.filter_button]]
     name = "All"
     tag = "*"
-
-  [[content.filter_button]]
-    name = "Past Experience"
-    tag = "past experience"
-    
-  [[content.filter_button]]
-    name = "Current Experience"
-    tag = "current experience"
   
   [[content.filter_button]]
     name = "Research"
