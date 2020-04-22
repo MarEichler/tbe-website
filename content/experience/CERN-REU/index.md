@@ -5,6 +5,7 @@ summary: Jun 2017 - Aug 2017
 tags:
 - past experience
 - research
+- high energy physics
 #set date 
 date:    "2017-08-01T00:00:00Z"
 #update with last modify (based on commits to github page for this file)
@@ -26,9 +27,9 @@ image:
 
 links:
 - icon: rss
-  icon_pack: fa
+  icon_pack: fas
   name: Project Website
-  link: https://atlas.cern/
+  url:  https://atlas.cern/
 url_code: ""
 url_pdf: ""
 url_slides: ""
