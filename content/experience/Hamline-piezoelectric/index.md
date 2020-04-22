@@ -1,5 +1,5 @@
 ---
-title: Piezoelectric Energy
+title: Piezoelectric Energy REU
 subtitle: Hamline University (Jun 2015 - Aug 2015)
 summary: Jun 2015 - Aug 2015
 tags:

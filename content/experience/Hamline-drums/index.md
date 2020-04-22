@@ -1,5 +1,5 @@
 ---
-title: Drums and Harmonic Frequencies 
+title: Drums and Harmonic Frequencies REU
 subtitle: Hamline University (Jun 2016 - Aug 2016)
 summary: Jun 2016 - Aug 2016
 tags:
