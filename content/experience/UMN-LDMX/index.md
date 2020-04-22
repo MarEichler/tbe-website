@@ -14,15 +14,21 @@ lastmod: "2019-04-17T00:00:00Z"
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Placement options: 1 = Full column width, 2 = Out-set, 3 = Screen-width
+# Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
 image:
-  caption: 
-  focal_point: 
+  placement: 2
+  caption: 'Image source: LDMX'
+  focal_point: ""
+  preview_only: true
 
 links:
-#- icon: twitter
-#  icon_pack: fab
-#  name: Follow
-#  url: https://twitter.com/georgecushen
+- icon: rss
+  icon_pack: fas
+  name: Project Website
+  url:  https://atlas.cern/
 url_code: ""
 url_pdf: ""
 url_slides: ""
