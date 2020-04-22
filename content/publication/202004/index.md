@@ -77,4 +77,3 @@ projects:
 slides: example
 ---
 
-a;lsdfkjas;lkdfjl;asdkjf
