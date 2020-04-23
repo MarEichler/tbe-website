@@ -3,7 +3,6 @@ title: CERN - ATLAS Project
 subtitle: CERN (Jun 2017 - Aug 2017)
 summary: Jun 2017 - Aug 2017
 tags:
-- past experience
 - research
 - high energy physics
 #set date 
