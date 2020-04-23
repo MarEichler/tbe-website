@@ -3,7 +3,6 @@ title: Mentor Physics Teaching Assistant
 subtitle: University of Minnesota (Jun 2019 - Present)
 summary: Jun 2019 - Present
 tags:
-- current experience
 - teaching 
 #set date, this will affect ordering 
 date:    "2019-06-01T00:00:00Z"
@@ -15,8 +14,10 @@ lastmod: "2019-04-17T00:00:00Z"
 external_link: ""
 
 image:
-  caption: 
-  focal_point: 
+  placement: 2
+  caption: ''
+  focal_point: ""
+  preview_only: true
 
 links:
 #- icon: twitter

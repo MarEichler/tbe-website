@@ -3,7 +3,6 @@ title: Hamline REU
 subtitle: Hamline University (Summer 2015, Summer 2016)
 summary: Summer 2015, Summer 2016
 tags:
-- past experience
 - research
 #set date 
 date:    "2015-08-01T00:00:00Z"
@@ -15,8 +14,10 @@ lastmod: "2019-04-17T00:00:00Z"
 external_link: ""
 
 image:
-  caption: 
-  focal_point: 
+  placement: 2
+  caption: ''
+  focal_point: ""
+  preview_only: true
 
 links:
 #- icon: twitter

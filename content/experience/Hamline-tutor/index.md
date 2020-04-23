@@ -3,7 +3,6 @@ title: Academic Support Tutor
 subtitle: Hamline University (Sep 2015 - May 2018)
 summary: Sep 2015 - May 2018
 tags:
-- past experience
 - teaching 
 #set date, this will affect ordering 
 date:    "2018-05-01T00:00:00Z"
@@ -15,8 +14,10 @@ lastmod: "2019-04-17T00:00:00Z"
 external_link: ""
 
 image:
-  caption: 
-  focal_point: 
+  placement: 2
+  caption: ''
+  focal_point: ""
+  preview_only: true
 
 links:
 url_code: ""
