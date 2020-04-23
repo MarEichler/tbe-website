@@ -1,12 +1,12 @@
 ---
-title: Drums and Harmonic Frequencies REU
-subtitle: Hamline University (Jun 2016 - Aug 2016)
-summary: Jun 2016 - Aug 2016
+title: Hamline REU
+subtitle: Hamline University (Summer 2015, Summer 2016)
+summary: Summer 2015, Summer 2016
 tags:
 - past experience
 - research
 #set date 
-date:    "2016-08-01T00:00:00Z"
+date:    "2015-08-01T00:00:00Z"
 #update with last modify (based on commits to github page for this file)
 lastmod: "2019-04-17T00:00:00Z"
 
@@ -36,7 +36,11 @@ url_video: ""
 slides: example
 ---
 
+### Summer 2015
+- Development of prototype renewable energy sources
+- Created a prototype for piezoelectric energy harvesting from foot steps  
 
+### Summer 2016  
 - Investigated two-dimensional shapes to nd a drum which produces harmonic frequencies
 - Developed algorithms in Mathematica to search for optimal shapes acting as tonal drums
 
