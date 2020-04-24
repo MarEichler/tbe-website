@@ -41,7 +41,9 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: '/contact' 
+# For a direct email link, use "mailto:test@example.org"
+# for contact in home folder use '#contact'
 - icon: orcid
   icon_pack: fab
   link: https://orcid.org/0000-0001-8603-1761
