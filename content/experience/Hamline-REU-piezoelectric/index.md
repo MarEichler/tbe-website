@@ -1,7 +1,7 @@
 ---
-title: Hamline REU
-subtitle: Hamline University (Summer 2015, Summer 2016)
-summary: Summer 2015, Summer 2016
+title: Hamline REU - Piezoelectric
+subtitle: Hamline University (Summer 2015)
+summary: Summer 2015
 tags:
 - research
 #set date 
@@ -37,12 +37,8 @@ url_video: ""
 slides: example
 ---
 
-### Summer 2015
 - Development of prototype renewable energy sources
 - Created a prototype for piezoelectric energy harvesting from foot steps  
 
-### Summer 2016  
-- Investigated two-dimensional shapes to nd a drum which produces harmonic frequencies
-- Developed algorithms in Mathematica to search for optimal shapes acting as tonal drums
 
 
