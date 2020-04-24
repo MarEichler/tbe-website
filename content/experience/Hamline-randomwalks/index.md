@@ -44,4 +44,4 @@ manifolds
 their outcomes
 - Interpreting this data collection as a numerical solution to $u \Delta = -1 $ on the chosen manifold
 
-
+ {{< gallery album="gallery" >}}
