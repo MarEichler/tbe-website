@@ -50,12 +50,14 @@ featured: false
 links:
 - name: Web Link
   url: https://link.springer.com/article/10.1007/JHEP04(2020)003
+- name: Project
+  url: "/experience/umn-ldmx/"
 url_pdf: https://link.springer.com/content/pdf/10.1007/JHEP04(2020)003.pdf
 #url_dataset: '#'
 #url_code: '#'
 #url_poster: '#'
-#url_project: ''
-#url_slides: ''
+#url_project: '#' doesn't seem to work; use homemade project link above 
+#url_slides: '#'
 #url_source: '#'
 #url_video: '#'
 
