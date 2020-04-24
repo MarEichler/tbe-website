@@ -1,10 +1,15 @@
 ---
 title: "A high efficiency photon veto for the Light Dark Matter eXperiment"
-authors:
-- Akesson, T.
-- Blinov, N.
-- Bryngemark, L.
-- admin 
+subtitle: "Torsten Akesson, Nikita Blinov, Lene Bryngemark, Owen Colegrove,
+Giulia Collura, Craig Dukes, Valentina Dutta, Bertrand Echenard,
+<b> Thomas Eichlersmith</b>, Craig Group, Joshua Hiltbrand, David G. Hitlin,
+Joseph Incandela, Gordan Krnjaic, Juan Lazaro,d Amina Li,d Jeremiah Mans,
+Phillip Masterson, Jeremy McCormick, Omar Moreno, Geoffrey Mullier,
+Akshay Nagar, Timothy Nelson,k Gavin Niendorf, James Oyang, Reese Petersen,
+Ruth Pottgen,a Philip Schuster, Harrison Siegel, Natalia Toro, Nhan Tranb
+and Andrew Whitbeckl"
+#not using this b/c it wants to link a profile to every author
+#(makes sense for website for a research group)
 # PUBLICATION DATE
 date: "2020-04-01" 
 doi: ""
@@ -57,7 +62,7 @@ url_pdf: https://link.springer.com/content/pdf/10.1007/JHEP04(2020)003.pdf
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
+  caption: 'Figure 7, p 16: Built by T. Eichlersmith'
   focal_point: ""
   preview_only: false
 
