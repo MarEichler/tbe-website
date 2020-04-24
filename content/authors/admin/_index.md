@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research focus is studying experimental high energy particle physics.  
+bio: Physics educator and researcher for the Light Dark Matter eXperiment.  
 
 interests:
 - Experimental high energy particle physics 
@@ -66,5 +66,4 @@ user_groups:
 - Researchers
 - Visitors
 ---
-Academic author widget
-[biography]
+Growing up in Minnesota, I always had a passion for seeking new knowledge. I quickly applied that passion to physics where I thoroughly enjoy reading, writing, talking, and learning about physics and mathematics. Currently, I am working on the proposed Light Dark Matter eXperiment (LDMX) doing feasibility studies and software development for the experiment’s analytical framework.
