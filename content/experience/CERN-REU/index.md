@@ -1,7 +1,7 @@
 ---
-title: CERN - ATLAS Project 
-subtitle: CERN (Jun 2017 - Aug 2017)
-summary: Jun 2017 - Aug 2017
+title: CERN REU - ATLAS Project 
+subtitle: CERN (Summer 2017)
+summary: Summer 2017
 tags:
 - research
 - high energy physics
@@ -20,7 +20,7 @@ external_link: ""
 # Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
 image:
   placement: 2
-  caption: 'Image source: [**CERN**](https://atlas.cern/discover/about)'
+  caption: 'Image source: [**Cureus**](https://cureusresearch.files.wordpress.com/2011/02/miriam_diamond_atlas.jpg)'
   focal_point: ""
   preview_only: false
 
