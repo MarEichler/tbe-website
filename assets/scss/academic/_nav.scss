@@ -130,6 +130,11 @@
 
 #navbar-main .main-menu-item ul li .nav-link {
   color: $sta-menu-text;
+//hover over text in main menu and will bold and change color
+      &:hover {
+        font-weight: bold ;
+        color: $sta-menu-text-active;
+      }
 }
 
 @include media-breakpoint-down(md) {
@@ -198,5 +203,14 @@ ul.nav-icons li.nav-item a.nav-link {
 
 .dropdown-item {
   background-color: $sta-menu-primary !important;
-  color: $sta-menu-text !important;
+  color: $sta-menu-text; //REMOVE !important TO HAVE TEXT CHANGE COLOR WHEN HOVER OVER IT
+// add so when hover over sub items, they bold
+  &:hover {
+        font-weight: bold !important;
+        color: $sta-menu-text !important; //(don't let it change color)
+      }
 }
+/*
+
+$sta-menu-text-active
+*/
