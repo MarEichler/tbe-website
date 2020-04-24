@@ -58,7 +58,7 @@ Scholarly Awards and Memberships
         </li>
         <li>
         <p class="title">Alumni Award in Physics </p>
-        <!--  <p class="org">Hamline University</p> --> 
+        <p class="org">Hamline University Physics Department</p> 
         <p class="year"> May 2018 </p>
         </li>
          <li>
@@ -88,7 +88,7 @@ Scholarly Awards and Memberships
         </li>
         <li>
         <p class="title">Alumni Award in Physics </p>
-        <!--  <p class="org">Hamline University</p> --> 
+        <p class="org">Hamline University Physics Department</p> 
         <p class="year"> May 2017 </p>
         </li>
         <li>
