@@ -31,7 +31,7 @@
 #MAIN PAGE - WORK
 [[main]]
   name = "My Work"
-  url = "#"
+  url = "/mywork"
   weight = 20
   identifier = "mywork"
 
