@@ -3,7 +3,7 @@ title: Light Dark Matter eXperiment
 subtitle: University of Minnesota (Jun 2018 - Present)
 summary: Jun 2018 - Present
 tags:
-- current experience
+- LDMX
 - research
 #set date, this will affect ordering 
 date:    "2018-06-01T00:00:00Z"
