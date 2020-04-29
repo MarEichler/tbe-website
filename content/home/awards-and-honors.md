@@ -113,9 +113,14 @@ Scholarly Awards and Memberships
         <p class="year"> May 2015 - May 2018 </p>
         </li>
         <li>
-        <p class="title"> Jerry L. Artz Memorial Scholarship </p>
+        <p class="title">
+          <a href = "https://www.hamline.edu/undergraduate/admission/talentscholarships/physics/" target = "_blank" > 
+          Jerry L. Artz Memorial Scholarship
+          </a>
+        </p>
         <p class="org">Hameline University  </p>
         <p class="year"> May 2014 - May 2018 </p>
+        <p class="desc"> Full Tuition for 3 years, totaling $60,000</p> 
         </li>
         <li>
         <p class="title"> Presidential Scholarship </p>
