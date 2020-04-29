@@ -6,32 +6,32 @@
 #MAIN PAGE - HOME
 [[main]]
   name = "About Me"
-  url = "#"
+  url = "aboutme/"
   weight = 10
   identifier = "home"
 
 [[main]]
   name = "Overview"
-  url = "#overview"
+  url = "aboutme/#overview"
   weight = 11
   parent = "home"
 
 [[main]]
   name = "Skills"
-  url = "#skills"
+  url = "aboutme/#skills"
   weight = 12
   parent = "home"
 
 [[main]]
   name = "Awards and Honors"
-  url = "#awards-and-honors"
+  url = "aboutme/#awards-and-honors"
   weight = 13
   parent = "home"
 
 #MAIN PAGE - WORK
 [[main]]
   name = "My Work"
-  url = "/mywork"
+  url = "mywork/"
   weight = 20
   identifier = "mywork"
 
