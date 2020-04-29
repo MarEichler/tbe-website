@@ -64,9 +64,9 @@ url_pdf: https://link.springer.com/content/pdf/10.1007/JHEP04(2020)003.pdf
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Figure 7, p 16: Built by T. Eichlersmith'
+  caption: ''
   focal_point: ""
-  preview_only: false
+  preview_only: true
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -84,4 +84,6 @@ projects:
 slides: example
 ---
 
+For this paper, I created the plot shown in Figure 7 (p 16).  
 
+![](featured.png)
