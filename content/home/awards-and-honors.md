@@ -108,24 +108,31 @@ Scholarly Awards and Memberships
         <p class="year"> May 2016 - August 2016 </p>
         </li>
         <li>
-        <p class="title"> Fulford-Karp Family Scholarship </p>
-        <p class="org">Hameline University  </p>
-        <p class="year"> May 2015 - May 2018 </p>
-        </li>
-        <li>
-        <p class="title">
+        <p class="title"> 
           <a href = "https://www.hamline.edu/undergraduate/admission/talentscholarships/physics/" target = "_blank" > 
-          Jerry L. Artz Memorial Scholarship
+          Fulford-Karp Family Scholarship 
           </a>
         </p>
         <p class="org">Hameline University  </p>
-        <p class="year"> May 2014 - May 2018 </p>
+        <p class="year"> May 2015 - May 2018 </p>
         <p class="desc"> Full Tuition for 3 years, totaling $60,000</p> 
         </li>
         <li>
-        <p class="title"> Presidential Scholarship </p>
+        <p class="title"> Jerry L. Artz Memorial Scholarship </p>
+        <p class="year"> May 2014 - May 2018 </p>
+        </li>
+        <li>
+        <p class="title"> 
+          <a href = "https://www.hamline.edu/undergraduate/admission/first-year-scholarships.html" target = "_blank" > 
+          Presidential Scholarship
+          </a> 
+        </p>
         <p class="org">Hameline University  </p>
         <p class="year"> September 2014 - May 2018 </p>
+        <p class="desc"> 
+          <span>&#36;</span>25,000 for 4 years, totaling <span>&#36;</span>100,000
+          <!-- <span>&#36;</span> = $ ; if don't do span will turn into math mode between $ --> 
+        </p> 
         </li>
       </ul>
     <h3>Memberships </h3>
