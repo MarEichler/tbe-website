@@ -45,8 +45,6 @@ links:
 #  icon_pack: fab
 #  name: Follow
 #  url: https://twitter.com/georgecushen
-#- name: Project
-#  url: "/experience/umn-ldmx/"
 url_code: ""
 url_pdf: ""
 url_slides: ""
