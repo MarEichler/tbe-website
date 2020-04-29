@@ -10,14 +10,14 @@ authors:
 superuser: true
 
 # Role/position
-role: Graduate Student
+role: PhD Graduate Student
 
 # Organizations/Affiliations
 organizations:
-- name: University of Minnesota 
-  url: ""
+- name: University of Minnesota Department of Physics
+  url: "https://www.physics.umn.edu/"
 
-# Short bio (displayed in user profile at end of posts)
+# Short bio (displayed in user profile at end of posts and on homepage widget)
 bio: Physics educator and researcher for the Light Dark Matter eXperiment.  
 
 interests:
