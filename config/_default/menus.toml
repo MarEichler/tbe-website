@@ -48,7 +48,7 @@
   parent = "mywork"
 
 [[main]]
-  name = "Talks and Presentations"
+  name = "Talks"
   url = "mywork/#talks"
   weight = 23
   parent = "mywork"
