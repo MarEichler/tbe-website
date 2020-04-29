@@ -7,8 +7,9 @@ article {
   animation-delay: 0.15s;
 }
 
+//increase width of page; original max-width is 760px
 .article-container {
-  max-width: 760px;
+  max-width: 1000px;
   padding: 0 20px 0 20px;
   margin: 0 auto 0 auto;
 }
