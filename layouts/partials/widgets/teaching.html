@@ -32,12 +32,15 @@
           {{with .description}}
             <div class="card-text">{{. | markdownify | emojify}}</div>
           {{end}}
-
+          
+          {{if .review_url}}
           {{- with .review_url}}<a  href="{{.}}" target="_blank" rel="noopener">{{end -}}
             {{- .type | markdownify | emojify -}}
             {{- with .reivew_url}}{{end}}</a>
-          &nbsp; &nbsp; 
+           {{end}}
+          
           {{ if .sec_review_url}} 
+          &nbsp; &nbsp; 
           {{- with .sec_review_url}}<a  href="{{.}}" target="_blank" rel="noopener">{{end -}}
             {{- .sec_type | markdownify | emojify -}}
             {{- with .sec_reivew_url}}{{end}}</a>
