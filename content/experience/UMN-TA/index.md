@@ -40,8 +40,4 @@ slides: example
 - Test, organize, and facilitate group problem-solving and experimental practice sessions
 - Evaluate students' learning goals through assignment and grading of written lab reports
 - Facilitate labs and discussion groups with approximately 30 students each semester  
-- List of TA classes  
-   - Phys 1301 Intro to Physics (Fall 2018)
-   - Phys 1301 Intro to Physics (Spring 2019)  
-   - Phys 1301 Intro to Physics (Fall 2019)  
-   - Phys 1301 Intro to Physics (Spring 2020) - helped facilitate online learning for students during the COVID19 pandemic 
+- <a href="/mywork/#teaching" > List of TA courses and reviews </a> 
