@@ -48,9 +48,15 @@
   parent = "mywork"
 
 [[main]]
+  name = "TA Experience"
+  url = "mywork/#teaching"
+  weight = 23
+  parent = "mywork"
+
+[[main]]
   name = "Talks"
   url = "mywork/#talks"
-  weight = 23
+  weight = 24
   parent = "mywork"
 
 [[main]]
