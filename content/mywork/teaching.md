@@ -18,6 +18,9 @@ date_format = "Jan 2006"
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
+
+
+
 [[item]]
   organization = "University of Minnesota"
   organization_url = ""
@@ -37,8 +40,6 @@ date_format = "Jan 2006"
   url = ""
   review_url = "/reviews/SRT_PHYS_1301W_337_GenPhysI_Fall_2019.pdf"
   type = "SRT - Section 337"
-  sec_review_url = ""
-  sec_type = ""
   academic_session = "Fall 2019"
   description = "<br> <ul> <li> PHYS 1301W: Introductory Physics for Science and Engineering I </li> <li> Responsible for grading exams, homework, and lab </li> <li> Lead discussion groups and labs for 17 students </li>"
 
@@ -53,6 +54,14 @@ date_format = "Jan 2006"
   sec_type = "SRT - Section 128"
   academic_session = "Spring 2019"
   description = "<br> <ul> <li> PHYS 1302W: Introductory Physics for Science and Engineering II </li> <li> Responsible for grading exams, homework, and lab </li> <li> Lead discussion groups and labs for 33 students </li>"
+
+[[item]]
+  organization = "University of Minnesota"
+  organization_url = ""
+  title = "Certificate for Outstanding Teaching and Dedication to Helping Students Learn"
+  url = ""
+  academic_session = "May 2019"
+  description = ""
 
 
 [[item]]
