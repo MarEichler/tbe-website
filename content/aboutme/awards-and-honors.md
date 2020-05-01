@@ -52,11 +52,6 @@ Scholarly Awards and Memberships
     <h3>Honors and Awards </h3>
       <ul >
         <li>
-        <p class="title">Certificate for Outstanding Teaching and Dedication to Helping Students Learn</p>
-        <p class="org">University of Minnesota, Twin Cities</p>
-        <p class="year"> May 2019 </p>
-        </li>
-        <li>
         <p class="title">Alumni Award in Physics </p>
         <p class="org">Hamline University Physics Department</p> 
         <p class="year"> May 2018 </p>
@@ -68,7 +63,7 @@ Scholarly Awards and Memberships
         </li>
         <li>
         <p class="title"> Outstanding Senior Mathematics Award </p>
-        <p class="org">Hameline University Mathematics Department</p>
+        <p class="org">Hamline University Mathematics Department</p>
         <p class="year"> May 2018 </p>
         </li>
         <li>
@@ -77,13 +72,13 @@ Scholarly Awards and Memberships
         <p class="year"> May 2018 </p>
         </li>
         <li>
-        <p class="title"> Nobel Price Inspiration Initiative - chosen representative </p>
-        <p class="org">Hameline University Phycisc Department </p>
+        <p class="title"> Nobel Prize Inspiration Initiative - chosen representative </p>
+        <p class="org">Hamline University Physics Department </p>
         <p class="year"> April 2018 </p>
         </li>
         <li>
         <p class="title"> Outstanding Junior Mathematics Award </p>
-        <p class="org">Hameline University Mathematics Department</p>
+        <p class="org">Hamline University Mathematics Department</p>
         <p class="year"> May 2017 </p>
         </li>
         <li>
@@ -106,6 +101,7 @@ Scholarly Awards and Memberships
         <p class="title"> Summer Research Fellowship </p>
         <p class="org">Howard Hughes Medical Institute </p>
         <p class="year"> May 2016 - August 2016 </p>
+        <p class="desc"> $3,500 stipend for the summer, funded by HHMI</p>
         </li>
         <li>
         <p class="title"> 
@@ -113,13 +109,16 @@ Scholarly Awards and Memberships
           Fulford-Karp Family Scholarship 
           </a>
         </p>
-        <p class="org">Hameline University  </p>
+        <p class="org">Hamline University  </p>
         <p class="year"> May 2015 - May 2018 </p>
-        <p class="desc"> Full Tuition for 3 years, totaling $60,000</p> 
+        <p class="desc"> Full Tuition for 3 years, totaling ~$60,000</p> 
         </li>
         <li>
         <p class="title"> Jerry L. Artz Memorial Scholarship </p>
         <p class="year"> May 2014 - May 2018 </p>
+        <p class="desc"> 
+          <span>&#36;</span>500 per year for 4 years, totaling <span>&#36;</span>2,000
+        </p>
         </li>
         <li>
         <p class="title"> 
@@ -127,10 +126,10 @@ Scholarly Awards and Memberships
           Presidential Scholarship
           </a> 
         </p>
-        <p class="org">Hameline University  </p>
+        <p class="org">Hamline University  </p>
         <p class="year"> September 2014 - May 2018 </p>
         <p class="desc"> 
-          <span>&#36;</span>25,000 for 4 years, totaling <span>&#36;</span>100,000
+          <span>&#36;</span>25,000 per year for 4 years, totaling <span>&#36;</span>100,000
           <!-- <span>&#36;</span> = $ ; if don't do span will turn into math mode between $ --> 
         </p> 
         </li>
@@ -139,22 +138,22 @@ Scholarly Awards and Memberships
       <ul >
         <li>
         <p class="title"> Circle of Phi Beta Kappa </p>
-        <p class="org"> Hameline University </p>
+        <p class="org"> Hamline University </p>
         <p class="year"> April 2017 - Present  </p>
         </li>
         <li>
         <p class="title"> Circle of Omicron Delta Kappa </p>
-        <p class="org"> Hameline University </p>
+        <p class="org"> Hamline University </p>
         <p class="year"> November 2016 - Present  </p>
         </li>
         <li>
         <p class="title"> Society of Physicas Students </p>
-        <p class="org"> Hameline University Chapter </p>
+        <p class="org"> Hamline University Chapter </p>
         <p class="year"> September 2016 - May 2018  </p>
         </li>
         <li>
         <p class="title"> Honors Program </p>
-        <p class="org"> Hameline University </p>
+        <p class="org"> Hamline University </p>
         <p class="year"> September 2015 - May 2018  </p>
         </li>
       </ul>
