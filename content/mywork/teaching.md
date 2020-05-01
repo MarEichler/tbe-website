@@ -18,6 +18,17 @@ date_format = "Jan 2006"
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
+[[item]]
+  organization = "University of Minnesota"
+  organization_url = ""
+  title = "General Physics II"
+  url = ""
+  review_url = ""
+  type = ""
+  sec_review_url = ""
+  sec_type = ""
+  academic_session = "Spring 2020"
+  description = "<br> <ul> <li> PHYS 1302W: Introductory Physics for Science and Engineering II </li> <li> Responsible for grading exams, homework, and lab </li> <li> Lead discussion groups and labs for 18 students </li> "
 
 [[item]]
   organization = "University of Minnesota"
@@ -29,7 +40,7 @@ date_format = "Jan 2006"
   sec_review_url = ""
   sec_type = ""
   academic_session = "Fall 2019"
-  description = "PHYS 1303W: Introductory Physics for Science and Engineering I"
+  description = "<br> <ul> <li> PHYS 1301W: Introductory Physics for Science and Engineering I </li> <li> Responsible for grading exams, homework, and lab </li> <li> Lead discussion groups and labs for 17 students </li>"
 
 [[item]]
   organization = "University of Minnesota"
@@ -41,7 +52,7 @@ date_format = "Jan 2006"
   sec_review_url = "/reviews/SRT_PHYS_1302W_128_GenPhysII_Spring_2019.pdf"
   sec_type = "SRT - Section 128"
   academic_session = "Spring 2019"
-  description = "PHYS 1302W: Introductory Physics for Science and Engineering II"
+  description = "<br> <ul> <li> PHYS 1302W: Introductory Physics for Science and Engineering II </li> <li> Responsible for grading exams, homework, and lab </li> <li> Lead discussion groups and labs for 33 students </li>"
 
 
 [[item]]
@@ -54,7 +65,7 @@ date_format = "Jan 2006"
   sec_review_url = "/reviews/SRT_PHYS_1301W_427_GenPhysI_Fall_2018.pdf"
   sec_type = "SRT - Section 427"
   academic_session = "Fall 2018"
-  description = "PHYS 1303W: Introductory Physics for Science and Engineering I"
+  description = "<br> <ul> <li> PHYS 1302W: Introductory Physics for Science and Engineering II </li> <li> Responsible for grading exams, homework, and lab </li> <li> Lead discussion groups and labs for 35 students </li>"
 
 +++
 
