@@ -33,13 +33,15 @@
             <div class="card-text">{{. | markdownify | emojify}}</div>
           {{end}}
 
-          {{- with .review_url}}<a class = "card-link" href="{{.}}" target="_blank" rel="noopener">{{end -}}
+          {{- with .review_url}}<a  href="{{.}}" target="_blank" rel="noopener">{{end -}}
             {{- .type | markdownify | emojify -}}
-            {{- with .reivew_url}}</a>{{end -}}
-
-            {{- with .sec_review_url}}<a class = "card-link" href="{{.}}" target="_blank" rel="noopener">{{end -}}
+            {{- with .reivew_url}}{{end}}</a>
+          &nbsp; &nbsp; 
+          {{ if .sec_review_url}} 
+          {{- with .sec_review_url}}<a  href="{{.}}" target="_blank" rel="noopener">{{end -}}
             {{- .sec_type | markdownify | emojify -}}
-            {{- with .sec_reivew_url}}</a>{{end -}}
+            {{- with .sec_reivew_url}}{{end}}</a>
+            {{end}}
 
         </div>
       </div>
