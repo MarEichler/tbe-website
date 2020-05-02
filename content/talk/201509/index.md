@@ -18,7 +18,8 @@ abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2015-09-01"
+date: "2015-09-17T13:00:00Z"
+#this date is an estimate; please verify!!!!!!!
 #"2020-02-01T13:00:00Z"
 #date_end: "2030-06-01T15:00:00Z"
 all_day: true
