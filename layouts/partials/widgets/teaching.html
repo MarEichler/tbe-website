@@ -10,25 +10,24 @@
   <div class="col-12 col-lg-8">
     {{ with $page.Content }}{{ . }}{{ end }}
 
+
     {{ if $page.Params.item }}
     {{ range $idx, $key := sort $page.Params.item ".date_start" "desc" }}
-      <div class="card experience course">
+    {{ if eq .highlight 1}}
+    <!-- if want to highlight; add primary color border and light shading to card --> 
+      <div class="card experience course highlight_bg" > 
+    {{else }} <div class="card experience course "> {{end}}
         <div class="card-body">
           {{- with .url -}}<a href="{{.}}" target="_blank" rel="noopener">{{- end -}}
           <h4 class="card-title exp-title text-muted my-0">{{.title | markdownify | emojify}}</h4>
           {{- with .url -}}</a>{{- end -}}
-
           <div class="card-subtitle my-0 article-metadata">
             {{- with .organization_url}}<a href="{{.}}" target="_blank" rel="noopener">{{end -}}
             {{- .organization | markdownify | emojify -}}
             {{- with .organization_url}}</a>{{end -}}
-
-            <span class="middot-divider"></span>
-            
+            <span class="middot-divider"></span> 
             {{- .academic_session | markdownify | emojify -}}
-
           </div>
-
 
           {{if .review_url}}
           <div style="
@@ -56,12 +55,17 @@
 		            <div class="card-text" style="margin-top: 15px">{{. | markdownify | emojify}}</div>
 		          {{end}}
 	       {{end}}
-          
-          
+
 
         </div>
       </div>
+
+
+
+
     {{end}}
     {{end}}
+
+
   </div>
 </div>
