@@ -1,7 +1,7 @@
 ---
 title: CMS and the LHC
 event: QuarkNet Conference
-event_url: 
+event_url: https://quarknet.org/content/2019-minnesota-workshop-neutrinos-cms-update-e-labs
 
 location: University of Minnesota 
 address:
@@ -11,17 +11,16 @@ address:
 #  postcode: '94305'
 #  country: United States
 
-subtitle: Oral presentation
+subtitle: Join oral presentation with Josh Hiltbrand
 summary: Oral presentation
 abstract: 
 # "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2019-06-01"
-#"2020-02-01T13:00:00Z"
-#date_end: "2030-06-01T15:00:00Z"
-all_day: true
+date: "2019-06-13T09:15:00Z"
+date_end: "2019-06-13T10:00:00Z"
+all_day: false
 
 # Schedule page publish date (NOT talk date).
 #publishDate: "2017-01-01T00:00:00Z"
@@ -36,9 +35,9 @@ featured: false
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: ''
+  caption: 'Source: [**UMN-CMS**](https://github.com/UMN-CMS)'
   focal_point: ""
-  preview_only: true
+  preview_only: false
 
 links:
 #- icon: twitter
@@ -47,7 +46,7 @@ links:
 #  url: https://twitter.com/georgecushen
 url_code: ""
 url_pdf: ""
-url_slides: ""
+url_slides: "QuarkNet Talk.pdf"
 url_video: ""
 
 # Markdown Slides (optional).
@@ -62,9 +61,10 @@ url_video: ""
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-#projects:
-#- UMN-LDMX
+projects:
+- CERN-REU
 
 # Enable math on this page?
 math: true
 ---
+
