@@ -18,9 +18,9 @@ abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2020-04-07T16:00:00Z"
+date: "2017-04-07T16:00:00Z"
 #event was april 6-8 http://www.ncurproceedings.org/ojs/index.php/NCUR2017
-date_end: "2030-06-01T16:20:00Z"
+date_end: "2017-06-01T16:20:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
