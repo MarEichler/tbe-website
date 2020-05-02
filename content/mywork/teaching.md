@@ -56,13 +56,13 @@ date_format = "Jan 2006"
   description = ""
 
 [[item]]
+  highlight = 1
   organization = "University of Minnesota"
   organization_url = ""
   title = "Certificate for Outstanding Teaching and Dedication to Helping Students Learn"
   url = ""
-  academic_session = "May 2019"
+  academic_session = "May 2019" 
   description = ""
-
 
 [[item]]
   organization = "University of Minnesota"
