@@ -1,6 +1,7 @@
 {{ $page := . }}
 {{ $featured := (.Resources.ByType "image").GetMatch "*featured*" }}
 {{ $anchor := $page.Params.image.focal_point | default "Smart" }}
+{{ $poster := (.Resources.ByType "image").GetMatch "*poster_image*" }}
 
 {{/* Set default titles for node pages */}}
 {{ $title := .Title }}
@@ -63,6 +64,7 @@
   {{ partial "page_links_div.html" $page }}
 </div>
 
+
 {{/* Featured image */}}
 <div class="article-header {{$image_container}} featured-image-wrapper mt-4 mb-4" style="max-width: {{$image.Width}}px; max-height: {{$image.Height}}px;">
   <div style="position: relative">
@@ -72,6 +74,8 @@
 </div>
 {{else}}
   {{/* Case when page has no image */}}
+
+
 
   {{/* Wider container for nodes */}}
   {{ $ctnr := "article-container" }}
@@ -88,6 +92,15 @@
   {{ if not .IsNode }}
     {{ partial "page_metadata" (dict "page" $page "is_list" 0 "share" true) }}
     {{ partial "page_links_div.html" $page }}
+
+{{ if $poster}}
+<div class="article-header featured-image-wrapper mt-4 mb-4">
+  <div style="position: relative">
+    <img src="{{ $poster }}" alt="" class="featured-image">
+  </div>
+</div>
+{{else}} {{end}}
+
   {{end}}
 </div>
 {{end}}
