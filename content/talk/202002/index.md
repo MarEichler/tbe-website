@@ -40,12 +40,14 @@ image:
   caption: ''
   focal_point: ""
   preview_only: true
+  
+# diff featured image on main page and in index? 
+# do preview_only = true (show up in list format)
+# add picture called "poster_image" and will show up in page 
 
 links:
-#- icon: twitter
-#  icon_pack: fab
-#  name: Follow
-#  url: https://twitter.com/georgecushen
+- name: Poster PDF
+  url: "EichlersmithT_LDMXPoster_2020_02.pdf"
 url_code: ""
 url_pdf: ""
 url_slides: ""
