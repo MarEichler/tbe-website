@@ -38,7 +38,7 @@ url_video: "https://www.youtube.com/watch?v=N-CEBXqvwbo"
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+slides: 
 ---
 
 Winder Wonder Jam is an annual student-organize concert at Hamline University held during winter.  Artist range from students at Hamline to well-known artists.  The event is held on campus is run entirely by student volunteers.  As lead organizier I was in charge of overseeing the entire process and managed all admistrative tasks the day of the event.  
